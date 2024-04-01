@@ -1,0 +1,6 @@
+[
+    {
+        "name": "User",
+        "description": "Endpoints dedicated to creating and managing users of the API."
+    }
+]

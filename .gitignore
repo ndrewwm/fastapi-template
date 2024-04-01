@@ -1,0 +1,4 @@
+.env
+app/app.db
+session.json
+__pycache__
